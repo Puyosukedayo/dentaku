@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  dentaku
 //
-//  Created by 晋治狩谷 on 2020/11/03.
+//  Created by puyosukedayo on 2020/11/03.
 //
 
 import UIKit
